@@ -1,0 +1,7 @@
+2) 
+  f)
+_No puedo ver el archivo tp2_1_2.c porque esta en otra rama (branch) llamada Opcion_2 y yo me encuentro en la rama del main.
+
+ _Al ejecutar el comando gitk --all puedo ver el commit del nuevo archivo en la rama del main.
+
+_Noto que los archivos commiteados en el main, junto con sus cambios se enlazaron a la rama Opcion_2, es decir se reflejaron estos commit en la rama Opcion_2.
